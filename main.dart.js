@@ -25394,7 +25394,7 @@ XP:function XP(a,b){this.a=a
 this.b=b},
 XO:function XO(a,b){this.a=a
 this.b=b},
-aBl(a,b,c){var s,r,q=null,p=new A.Xu(new A.b8(new A.ab($.a9,t.wC),t.Fe)),o=c.iJ($.apL(),t.S),n=A.oT(A.ci("Achievements & Certifications",A.mX().$4$decoration$decorationThickness$fontSize$fontWeight(B.en,2,50,B.I),q),new A.XQ()),m=A.oT(A.ci("Udemy | ?",A.hN().$3$color$fontSize$fontWeight(B.i,24,B.I),B.be),new A.XR()),l=A.W($.aoy).h("a1<1,nf>")
+aBl(a,b,c){var s,r,q=null,p=new A.Xu(new A.b8(new A.ab($.a9,t.wC),t.Fe)),o=c.iJ($.apL(),t.S),n=A.oT(A.ci("Achievements & Certifications",A.mX().$4$decoration$decorationThickness$fontSize$fontWeight(B.en,2,50,B.I),q),new A.XQ()),m=A.oT(A.ci("Udemy | DevTalles | Hackaton Awards",A.hN().$3$color$fontSize$fontWeight(B.i,24,B.I),B.be),new A.XR()),l=A.W($.aoy).h("a1<1,nf>")
 l=A.Z(new A.a1($.aoy,new A.XS(),l),!0,l.h("ao.E"))
 s=l.length
 r=t.D
@@ -80898,7 +80898,7 @@ A.iD.prototype={}
 A.IF.prototype={
 f2(a,b){return new A.xP(B.D3,b.iJ($.apS(),t.lo).a?A.anK(B.Q,null):A.anK(B.a1,null),!1,null)}}
 A.Es.prototype={
-f2(a,b){var s=null,r=t.w,q=A.jg(s,A.iW("assets/images/design/blob_small_bean_ash.png",A.S(51,36,36,35),s,s,A.aR(a,s,r).w.a.b*1.2,s),s,s,-100,s,0,s),p=A.aR(a,s,r).w,o=t.D
+f2(a,b){var s=null,r=t.w,q=A.jg(s,A.iW("assets/images/design/blob_small_bean_ash.png",A.S(51,36,36,35),s,s,A.aR(a,s,r).w.a.b*1.2,s),s,s,-50,s,0,s),p=A.aR(a,s,r).w,o=t.D
 return A.zi(A.ii(B.d9,A.a([q,A.jg(s,A.fY(new A.xL(new A.EP("assets/animations/BackgroundPhoto.json",s,s,s,s,!1),s,s,s,s,s,s,s,s,s,s,s,B.bV,s,s,B.ii,s,s,s,s),580,580),s,s,s,130,p.a.b/2-330,s),A.jg(s,B.AK,s,s,s,290,A.aR(a,s,r).w.a.b/2-170,s),new A.fz(B.C,s,s,A.hR(A.a([B.M0,new A.H7(2,B.ij,new A.dA(B.CH,new A.fz(B.d9,s,s,A.hR(A.a([A.ci("Hello, I'm",A.mX().$1$fontSize(40),s),B.ei,A.oT(A.ci("Christopher Paz",A.mX().$2$fontSize$fontWeight(50,B.I),s),new A.VM()),B.ei,A.zd(s,s,B.bf,s,s,!0,s,A.io(s,A.hN().$3$color$fontSize$fontWeight(B.dl,24,B.I),"A Cross-Platform Developer"),B.ah,s,s,B.U,B.ab),B.ei,A.zd(s,s,B.bf,s,s,!0,s,A.io(s,A.hN().$3$color$fontSize$fontWeight(B.dl,24,B.I),"           working with Flutter to make"),B.ah,s,s,B.U,B.ab),B.ei,A.zd(s,s,B.bf,s,s,!0,s,A.io(s,A.hN().$3$color$fontSize$fontWeight(B.dl,24,B.I),"                              your ideas come real!"),B.ah,s,s,B.U,B.ab),B.xF,new A.zT(this.e,B.b8,s),B.xF],o),B.i6,B.b8),s),s),s)],o),B.V,B.a5),s)],o),B.bc))}}
 A.VM.prototype={
 $1(a){return B.dE.lg(a)},
@@ -88405,7 +88405,7 @@ $.awJ=A.ax(t.c)
 $.arX=0
 $.aL2=A.a([null,B.yO,B.yF,B.yG,B.yH,B.yI,B.yJ,B.yK,B.hu,B.yL,B.yM,B.yN,B.yP,B.kx,B.yQ,B.yR,B.kw,null],A.aa("o<cE?>"))
 $.aE6=A.x(t.S,A.aa("di"))
-$.aoy=A.a(["assets/images/certifications/NetCertification.jpg","assets/images/certifications/FlutterCertificate.jpg"],t.s)
+$.aoy=A.a(["assets/images/certifications/FlutterCertificate.jpg","assets/images/certifications/HackatonAward.jpeg","assets/images/certifications/NetCertification.jpg","assets/images/certifications/RiverpodCertificate.jpg","assets/images/certifications/VisualStudioCertificate.jpg"],t.s)
 $.av3=null
 $.ajy=null
 $.V9=null
